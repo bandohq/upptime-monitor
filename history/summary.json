@@ -16,5 +16,65 @@
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MXN Polygon On-ramps",
+    "url": "$QUOTE_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mxn-polygon-on-ramps",
+    "status": "up",
+    "uptime": "6.70%",
+    "uptimeDay": "6.70%",
+    "uptimeWeek": "6.70%",
+    "uptimeMonth": "6.70%",
+    "uptimeYear": "6.70%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-17": 0
+    }
+  },
+  {
+    "name": "MXN Arbitrum On-ramps",
+    "url": "$QUOTE_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mxn-arbitrum-on-ramps",
+    "status": "up",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-17": 0
+    }
+  },
+  {
+    "name": "MXN Optimism On-ramps",
+    "url": "$QUOTE_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mxn-optimism-on-ramps",
+    "status": "up",
+    "uptime": "2.15%",
+    "uptimeDay": "2.15%",
+    "uptimeWeek": "2.15%",
+    "uptimeMonth": "2.15%",
+    "uptimeYear": "2.15%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-17": 0
+    }
   }
 ]
