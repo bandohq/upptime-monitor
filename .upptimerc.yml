@@ -5,10 +5,7 @@ repo: upptime-monitor # The name of this repository
 sites:
   - name: Bando Site
     url: https://bando.cool
-  - name: Bando API
-    url: https://alpha.bando.cool/api/v1/health
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # TODO: Add health checks for each network
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +14,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Bando Status
-  introTitle: "Bando Status Page"
+  introTitle: "Bando Platform Status"
   introMessage: ""
   navbar:
     - title: Status
