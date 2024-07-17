@@ -1,7 +1,7 @@
-url: $QUOTE_ENDPOINT
+url: https://alpha.bando.cool/api/v1/ramps/quote/
 status: up
 code: 200
-responseTime: 1578
-lastUpdated: 2024-07-17T20:11:06.157Z
+responseTime: 1264
+lastUpdated: 2024-07-17T20:15:27.885Z
 startTime: 2024-07-17T19:56:42.155Z
 generator: Upptime <https://github.com/upptime/upptime>
