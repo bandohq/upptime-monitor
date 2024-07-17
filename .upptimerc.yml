@@ -11,21 +11,21 @@ sites:
     method: POST
     body: '{base_currency: "MXN", quote_currency: "USDC", base_amount: 100, network: "pol"}'
     headers:
-      Content-Type: application/json
+     - "Content-Type: application/json"
 
   - name: MXN Arbitrum On-ramps
     url: $QUOTE_ENDPOINT
     method: POST
     body: '{base_currency: "MXN", quote_currency: "USDC", base_amount: 100, network: "arb"}'
     headers:
-      Content-Type: application/json
+     - "Content-Type: application/json"
 
   - name: MXN Optimism On-ramps
     url: $QUOTE_ENDPOINT
     method: POST
     body: '{base_currency: "MXN", quote_currency: "USDC", base_amount: 100, network: "opt"}'
     headers:
-      Content-Type: application/json
+     - "Content-Type: application/json"
   
   
 
