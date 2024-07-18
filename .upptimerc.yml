@@ -7,7 +7,7 @@ sites:
   # TODO: Add health checks for each network
 
   - name: MXN Polygon On-ramps
-    url: https://alpha.bando.cool/api/v1/ramps/quote/
+    url: $QUOTE_ENDPOINT
     method: POST
     body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "pol"}'
     headers:
