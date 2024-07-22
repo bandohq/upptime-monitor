@@ -26,15 +26,62 @@ sites:
     body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "opt"}'
     headers:
      - "Content-Type: application/json"
+
+  - name: MXN Avalanche On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "ava"}'
+    headers:
+     - "Content-Type: application/json"
   
-  
+  - name: MXN BNB Smart Chain On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "bsc"}'
+    headers:
+     - "Content-Type: application/json"
+
+  - name: MXN Base On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "bas"}'
+    headers:
+     - "Content-Type: application/json"
+
+  #- name: MXN Solana On-ramps
+  #  url: $QUOTE_ENDPOINT
+  #  method: POST
+  #  body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "sol"}'
+  #  headers:
+  #   - "Content-Type: application/json"
+
+  - name: MXN Celo On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "cel"}'
+    headers:
+     - "Content-Type: application/json"
+
+  - name: MXN Scroll On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "scl"}'
+    headers:
+     - "Content-Type: application/json"
+
+  - name: MXN Blast On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDB", "base_amount": "200", "network": "bls"}'
+    headers:
+     - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bando.cool
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://bando.cool/assets/logo_white-C6gzfV7F.svg
   name: Bando Status
   introTitle: "Bando Platform Status"
   introMessage: ""
