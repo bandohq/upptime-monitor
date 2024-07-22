@@ -130,19 +130,19 @@
     "url": "$QUOTE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-celo-on-ramps",
-    "status": "down",
-    "uptime": "61.53%",
-    "uptimeDay": "61.53%",
-    "uptimeWeek": "61.53%",
-    "uptimeMonth": "61.53%",
-    "uptimeYear": "61.53%",
-    "time": 2484,
-    "timeDay": 2484,
-    "timeWeek": 2484,
-    "timeMonth": 2484,
-    "timeYear": 2484,
+    "status": "up",
+    "uptime": "58.55%",
+    "uptimeDay": "58.55%",
+    "uptimeWeek": "58.55%",
+    "uptimeMonth": "58.55%",
+    "uptimeYear": "58.55%",
+    "time": 2499,
+    "timeDay": 2499,
+    "timeWeek": 2499,
+    "timeMonth": 2499,
+    "timeYear": 2499,
     "dailyMinutesDown": {
-      "2024-07-22": 132
+      "2024-07-22": 150
     }
   },
   {
