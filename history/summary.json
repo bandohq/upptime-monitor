@@ -131,11 +131,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-celo-on-ramps",
     "status": "up",
-    "uptime": "95.93%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "95.93%",
-    "uptimeMonth": "95.93%",
-    "uptimeYear": "95.93%",
+    "uptime": "93.84%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "93.84%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "93.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -169,18 +169,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-blast-on-ramps",
     "status": "up",
-    "uptime": "26.56%",
-    "uptimeDay": "26.56%",
-    "uptimeWeek": "26.56%",
-    "uptimeMonth": "26.56%",
-    "uptimeYear": "26.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-07-22": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
