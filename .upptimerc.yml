@@ -72,7 +72,7 @@ sites:
   - name: MXN Blast On-ramps
     url: $QUOTE_ENDPOINT
     method: POST
-    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "bls"}'
+    body: '{"base_currency": "MXN", "quote_currency": "USDB", "base_amount": "200", "network": "bls"}'
     headers:
      - "Content-Type: application/json"
 
