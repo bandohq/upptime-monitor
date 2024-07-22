@@ -58,7 +58,7 @@ sites:
   - name: MXN Celo On-ramps
     url: $QUOTE_ENDPOINT
     method: POST
-    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "cel"}'
+    body: '{"base_currency": "MXN", "quote_currency": "CELO", "base_amount": "200", "network": "cel"}'
     headers:
      - "Content-Type: application/json"
 
