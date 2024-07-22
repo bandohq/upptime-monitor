@@ -90,10 +90,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "MXN Binance Smart Chain On-ramps",
+    "name": "MXN BNB Smart Chain On-ramps",
     "url": "$QUOTE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "mxn-binance-smart-chain-on-ramps",
+    "slug": "mxn-bnb-smart-chain-on-ramps",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -126,24 +126,42 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "MXN Celo On-ramps",
+    "name": "MXN Solana On-ramps",
     "url": "$QUOTE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "mxn-celo-on-ramps",
+    "slug": "mxn-solana-on-ramps",
     "status": "up",
-    "uptime": "88.74%",
-    "uptimeDay": "88.74%",
-    "uptimeWeek": "88.74%",
-    "uptimeMonth": "88.74%",
-    "uptimeYear": "88.74%",
+    "uptime": "1.12%",
+    "uptimeDay": "1.12%",
+    "uptimeWeek": "1.12%",
+    "uptimeMonth": "1.12%",
+    "uptimeYear": "1.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 1
+      "2024-07-22": 0
     }
+  },
+  {
+    "name": "MXN Celo On-ramps",
+    "url": "$QUOTE_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mxn-celo-on-ramps",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MXN Scroll On-ramps",
