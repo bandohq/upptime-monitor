@@ -26,6 +26,63 @@ sites:
     body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "opt"}'
     headers:
      - "Content-Type: application/json"
+
+  - name: MXN Avalanche On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "ava"}'
+    headers:
+     - "Content-Type: application/json"
+  
+  - name: MXN Binance Smart Chain On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "bsc"}'
+    headers:
+     - "Content-Type: application/json"
+
+  - name: MXN Base On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "bas"}'
+    headers:
+     - "Content-Type: application/json"
+
+  #- name: MXN Solana On-ramps
+  #  url: $QUOTE_ENDPOINT
+  #  method: POST
+  #  body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "sol"}'
+  #  headers:
+  #   - "Content-Type: application/json"
+
+  - name: MXN Celo On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "cel"}'
+    headers:
+     - "Content-Type: application/json"
+
+  - name: MXN Scroll On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "scl"}'
+    headers:
+     - "Content-Type: application/json"
+
+  - name: MXN Blast On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "bls"}'
+    headers:
+     - "Content-Type: application/json"
+
+
+
+
+
+     
+
+  
   
   
 
