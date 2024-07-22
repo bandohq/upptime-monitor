@@ -34,7 +34,7 @@ sites:
     headers:
      - "Content-Type: application/json"
   
-  - name: MXN Binance Smart Chain On-ramps
+  - name: MXN BNB Smart Chain On-ramps
     url: $QUOTE_ENDPOINT
     method: POST
     body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "bsc"}'
@@ -48,17 +48,17 @@ sites:
     headers:
      - "Content-Type: application/json"
 
-  #- name: MXN Solana On-ramps
-  #  url: $QUOTE_ENDPOINT
-  #  method: POST
-  #  body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "sol"}'
-  #  headers:
-  #   - "Content-Type: application/json"
+  - name: MXN Solana On-ramps
+    url: $QUOTE_ENDPOINT
+    method: POST
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "sol"}'
+    headers:
+     - "Content-Type: application/json"
 
   - name: MXN Celo On-ramps
     url: $QUOTE_ENDPOINT
     method: POST
-    body: '{"base_currency": "MXN", "quote_currency": "CELO", "base_amount": "200", "network": "cel"}'
+    body: '{"base_currency": "MXN", "quote_currency": "USDC", "base_amount": "200", "network": "cel"}'
     headers:
      - "Content-Type: application/json"
 
