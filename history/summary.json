@@ -126,26 +126,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "MXN Solana On-ramps",
-    "url": "$QUOTE_ENDPOINT",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "mxn-solana-on-ramps",
-    "status": "up",
-    "uptime": "1.49%",
-    "uptimeDay": "1.49%",
-    "uptimeWeek": "1.49%",
-    "uptimeMonth": "1.49%",
-    "uptimeYear": "1.49%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-07-22": 0
-    }
-  },
-  {
     "name": "MXN Celo On-ramps",
     "url": "$QUOTE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
