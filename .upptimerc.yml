@@ -76,22 +76,12 @@ sites:
     headers:
      - "Content-Type: application/json"
 
-
-
-
-
-     
-
-  
-  
-  
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bando.cool
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://bando.cool/assets/logo_white-C6gzfV7F.svg
   name: Bando Status
   introTitle: "Bando Platform Status"
   introMessage: ""
