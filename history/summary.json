@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-optimism-on-ramps",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3797,
     "timeDay": 3069,
     "timeWeek": 3888,
     "timeMonth": 3797,
     "timeYear": 3797,
-    "dailyMinutesDown": {
-      "2024-07-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MXN Avalanche On-ramps",
@@ -79,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-avalanche-on-ramps",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3341,
     "timeDay": 2546,
     "timeWeek": 3341,
     "timeMonth": 3341,
     "timeYear": 3341,
-    "dailyMinutesDown": {
-      "2024-07-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MXN BNB Smart Chain On-ramps",
@@ -99,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-bnb-smart-chain-on-ramps",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3271,
     "timeDay": 2822,
     "timeWeek": 3271,
     "timeMonth": 3271,
     "timeYear": 3271,
-    "dailyMinutesDown": {
-      "2024-07-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MXN Base On-ramps",
@@ -119,38 +113,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-base-on-ramps",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3601,
     "timeDay": 2941,
     "timeWeek": 3601,
     "timeMonth": 3601,
     "timeYear": 3601,
-    "dailyMinutesDown": {
-      "2024-07-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MXN Celo On-ramps",
     "url": "$QUOTE_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-celo-on-ramps",
-    "status": "up",
-    "uptime": "90.73%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "90.73%",
-    "time": 2849,
-    "timeDay": 2328,
-    "timeWeek": 2849,
-    "timeMonth": 2849,
-    "timeYear": 2849,
+    "status": "down",
+    "uptime": "91.25%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "91.25%",
+    "time": 2810,
+    "timeDay": 2210,
+    "timeWeek": 2810,
+    "timeMonth": 2810,
+    "timeYear": 2810,
     "dailyMinutesDown": {
-      "2024-07-25": 10,
+      "2024-07-25": 0,
       "2024-07-24": 322,
       "2024-07-22": 150
     }
@@ -161,19 +153,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mxn-scroll-on-ramps",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2205,
     "timeDay": 1757,
     "timeWeek": 2205,
     "timeMonth": 2205,
     "timeYear": 2205,
-    "dailyMinutesDown": {
-      "2024-07-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MXN Blast On-ramps",
