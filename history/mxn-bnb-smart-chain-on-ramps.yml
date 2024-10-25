@@ -1,7 +1,7 @@
 url: $QUOTE_ENDPOINT
-status: up
-code: 200
-responseTime: 3614
-lastUpdated: 2024-10-25T14:19:57.045Z
+status: down
+code: 500
+responseTime: 15642
+lastUpdated: 2024-10-25T14:41:31.234Z
 startTime: 2024-07-22T04:56:24.937Z
 generator: Upptime <https://github.com/upptime/upptime>
