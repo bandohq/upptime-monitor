@@ -1,7 +1,7 @@
 url: https://bando.cool
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-02-05T15:48:43.141Z
+status: down
+code: 429
+responseTime: 84
+lastUpdated: 2025-02-05T15:56:31.401Z
 startTime: 2024-07-17T04:30:39.489Z
 generator: Upptime <https://github.com/upptime/upptime>
